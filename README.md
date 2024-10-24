@@ -1,5 +1,6 @@
-<h1>MAP REDUCE PRATICAL WORK</h1>
-
+<h1 align="center">MAP REDUCE PRATICAL WORK</h1>
+<br>
+<br>
 
 <h2>Exercie 1</h2>
 <h3>Question 1</h2>
